@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap');
+
+body {font-family: Arial, Helvetica, sans-serif;}
+
+.titel {
+    padding: 1px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+  }
+  
+  .header {
+    margin: 8px 0px;
+    font-size: 28px;
+    padding-top: 5px;
+    padding-left: 6px;
+    font-family: 'Marcellus', serif;
+  }
